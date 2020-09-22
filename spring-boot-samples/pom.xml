@@ -11,7 +11,7 @@
 	<packaging>pom</packaging>
 	<name>Spring Boot Samples</name>
 	<description>Spring Boot Samples</description>
-	<url>http://projects.spring.io/spring-boot/</url>
+	<url>https://projects.spring.io/spring-boot/</url>
 	<organization>
 		<name>Pivotal Software, Inc.</name>
 		<url>http://www.spring.io</url>
